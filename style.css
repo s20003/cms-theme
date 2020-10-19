@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*
 Theme Name: MY THEME
 Author: TRAVEL SKETCH
@@ -5,3 +6,12 @@ Description: This is my original theme.
 Version: 1.0
 */
 
+body {
+    font-family: "メイリオ", "Hiragino Kaku Gothic Pro", sans-serif;
+}
+
+article h1 {
+    margin: 0;
+    font-size: 32px;
+    font-weight: normal;
+}
