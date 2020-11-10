@@ -15,3 +15,42 @@ article h1 {
     font-size: 32px;
     font-weight: normal;
 }
+
+.postinfo {
+    margin-top: 15px;
+    font-size: 14px
+}
+
+.postcat a {
+    color: #000000;
+    text-decoration: none
+}
+
+.postinfo .postcat {
+    margin-left: 20px;
+}
+
+.postinfo i {
+    color: #888888
+}
+
+.pagenav a {
+    padding: 5px 10px;
+    border: solid 1px #cccccc;
+    border-radius: 10px;
+    color: #666666;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.pagenav .old a {
+    float: left
+}
+.pagenav .new a {
+    float: right
+}
+.pagenav {
+    overflow: hidden;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
